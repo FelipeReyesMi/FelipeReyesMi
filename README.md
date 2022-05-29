@@ -23,7 +23,7 @@ Const miperfil{
   Herramientas: ['Node', 'Netbeans', 'GitHub', 'Git', 'Express', 'Jest', 'Postman']
 }
 ```
-
+<p align="Center" ><img src="https://github.com/FelipeReyesMi/FelipeReyesMi/blob/main/photo/pacman.gif" height="150px" width ="450px"></p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
