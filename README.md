@@ -5,13 +5,12 @@
 <p align="Center" ><img src="https://github.com/FelipeReyesMi/FelipeReyesMi/blob/main/photo/programador.gif" height="250px" width ="450px"></p>
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 🤔 About
--  **Working :**  Web Development :computer: | Cloud :cloud: 
--  **Learning :** Full-Stack :zap: | Open-Source :fire:	
--  **Hobbies :** Books :books: | Music :headphones:
--  **Ask me about :** Anything!, I'm happy to help :v:
--  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
--  **Pronouns :** He/Him/His :innocent:
+### 🤔 Acerca de Mí
+-  **Estudio :**  Curso el utlimo año de la carrera de Ingenieria en computación :computer:  
+-  **Universidad :** Estudio en Universidad Autónoma del Estado de México	:school:
+-  **Hobbies :** leer historias de suspenso :books: | Basketball :basketball: | Videojuegos :video_game: 
+-  **Certificados :** Azure Fundamentals :page_facing_up:
+-  **Titulo:** Técnico en soporte y mantenimiento de equipo de cómputo :scroll:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
