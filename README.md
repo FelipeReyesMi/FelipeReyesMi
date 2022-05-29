@@ -22,7 +22,9 @@ Const miperfil{
   Herramientas: ['Node', 'Netbeans', 'GitHub', 'Git', 'Express', 'Jest', 'Postman', 'MYSQL', 'MARIADB']
 }
 ```
-<p align="Center" ><img src="https://github.com/FelipeReyesMi/FelipeReyesMi/blob/main/photo/pacman.gif" height="150px" width ="450px"></p>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=FelipeReyesMi&show_icons=true&theme=dark)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -35,4 +37,4 @@ Puedes encontrarme en :wink: :point_right: :
 
 <p align="Center" ><img src="https://github.com/FelipeReyesMi/FelipeReyesMi/blob/main/photo/602c944bead0f625301bea4508c15da2.gif" height="300px" width ="250px"></p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=FelipeReyesMi&show_icons=true&theme=dark)
+
