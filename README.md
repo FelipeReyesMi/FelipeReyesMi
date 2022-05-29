@@ -18,7 +18,7 @@
 ```js
 Const miperfil{
   pronombres: "él" | "a él",
-  Lenguajes: ['C', 'C#', 'Java', 'JavaScript', 'HTML', 'CSS',SQL],
+  Lenguajes: ['C', 'C#', 'Java', 'JavaScript', 'HTML', 'CSS','SQL'],
   Herramientas: ['Node', 'Netbeans', 'GitHub', 'Git', 'Express', 'Jest', 'Postman', 'MYSQL', 'MARIADB']
 }
 ```
