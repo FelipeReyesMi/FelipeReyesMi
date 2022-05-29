@@ -7,7 +7,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 Acerca de Mí
 -  **Estudio :**  Curso el utlimo año de la carrera de Ingenieria en computación :computer:  
--  **Universidad :** Estudio en Universidad Autónoma del Estado de México	:school:
+-  **Universidad :** Estudio en la Universidad Autónoma del Estado de México	:school:
 -  **Hobbies :** leer historias de suspenso :books: | Basketball :basketball: | Videojuegos :video_game: 
 -  **Certificados :** Azure Fundamentals :page_facing_up:
 -  **Titulo:** Técnico en soporte y mantenimiento de equipo de cómputo :scroll:
