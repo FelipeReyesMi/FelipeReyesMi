@@ -1,17 +1,20 @@
 
 <h1 align="center">Hola, Soy Felipe 👋 </h1>
 <h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
-<div>
-<p align="Center" ><img src="https://github.com/FelipeReyesMi/FelipeReyesMi/blob/main/photo/programador.gif" height="250px" width ="450px"></p>
-  <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
-</div> 
-</div>
+<p align="Center" ><img src="https://github.com/FelipeReyesMi/FelipeReyesMi/blob/main/photo/programador.gif" height="250px" width ="450px"></p>
+  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🤔 About
+-  **Working :**  Web Development :computer: | Cloud :cloud: 
+-  **Learning :** Full-Stack :zap: | Open-Source :fire:	
+-  **Hobbies :** Books :books: | Music :headphones:
+-  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
+-  **Pronouns :** He/Him/His :innocent:
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ```js
 Const miperfil{
@@ -20,6 +23,12 @@ Const miperfil{
   Herramientas: ['Node', 'Netbeans', 'GitHub', 'Git', 'Express', 'Jest', 'Postman']
 }
 ```
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 Puedes encontrarme en :wink: :point_right: :
 - [Facebook](https://www.facebook.com/profile.php?id=100081813818636)
 - [Twitter](https://twitter.com/reyes7604)
