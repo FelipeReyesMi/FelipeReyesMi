@@ -2,8 +2,8 @@
 ```js
 Const miperfil{
   pronombres: "él" | "a él",
-  Lenguajes: [C, C#, Java, JavaScript, HTML, CSS],
-  Herramientas: [Node, Netbeans, GitHub, Git, Express, Jest]
+  Lenguajes: ['C', 'C#', 'Java', 'JavaScript', 'HTML', 'CSS'],
+  Herramientas: ['Node', 'Netbeans', 'GitHub', 'Git', 'Express', 'Jest', 'Postman']
 }
 ```
 Puedes encontrarme en :wink: :point_right: :
