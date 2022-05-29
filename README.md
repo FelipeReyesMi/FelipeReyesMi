@@ -2,8 +2,7 @@
 <h1 align="center">Hola, Soy Felipe 👋 </h1>
 <h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="500px" src="https://github.com/FelipeReyesMi/FelipeReyesMi/blob/main/photo/programador.gif"/>
-<div align="left"> 
+<p align="Center" ><img src="https://github.com/FelipeReyesMi/FelipeReyesMi/blob/main/photo/programador.gif"></p>
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
