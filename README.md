@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola, Soy Felipe 👋 </h1>
-<h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
+<h3 align="center">🚀 Técnico en soporte y mantenimiento de equipo de cómputo | Ingeniero en Computación  🚀</h3>
 
 <p align="Center" ><img src="https://github.com/FelipeReyesMi/FelipeReyesMi/blob/main/photo/programador.gif" height="250px" width ="450px"></p>
   
