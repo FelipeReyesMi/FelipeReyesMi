@@ -18,8 +18,8 @@
 ```js
 Const miperfil{
   pronombres: "él" | "a él",
-  Lenguajes: ['C', 'C#', 'Java', 'JavaScript', 'HTML', 'CSS'],
-  Herramientas: ['Node', 'Netbeans', 'GitHub', 'Git', 'Express', 'Jest', 'Postman']
+  Lenguajes: ['C', 'C#', 'Java', 'JavaScript', 'HTML', 'CSS',SQL],
+  Herramientas: ['Node', 'Netbeans', 'GitHub', 'Git', 'Express', 'Jest', 'Postman', 'MYSQL', 'MARIADB']
 }
 ```
 <p align="Center" ><img src="https://github.com/FelipeReyesMi/FelipeReyesMi/blob/main/photo/pacman.gif" height="150px" width ="450px"></p>
