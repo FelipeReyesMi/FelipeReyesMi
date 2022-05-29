@@ -34,6 +34,6 @@ Puedes encontrarme en :wink: :point_right: :
 - [Twitter](https://twitter.com/reyes7604)
 - [Linkendln](https://www.linkedin.com/in/felipe-reyes-miguel-604b9020a)
 
-<p align="Center" ><img src="https://github.com/FelipeReyesMi/FelipeReyesMi/blob/main/photo/CvVD.gif" height="200px" width ="450px"></p>
+<p align="Center" ><img src="https://github.com/FelipeReyesMi/FelipeReyesMi/blob/main/photo/602c944bead0f625301bea4508c15da2.gif" height="200px" width ="450px"></p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=FelipeReyesMi&show_icons=true&theme=dark)
