@@ -1,5 +1,18 @@
 ### Hola, Soy Felipe 👋
-<p align="Center" ><img src="https://github.com/FelipeReyesMi/FelipeReyesMi/blob/main/photo/programador.gif" height="250px" width ="350px"></p>
+<h1 align="center">Hey there! I'm Sachin Vilas Nagane 👋 </h1>
+<h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
+<div>
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://github.com/FelipeReyesMi/FelipeReyesMi/blob/main/photo/programador.gif"/>
+<div align="left"> 
+  <h3> 👨🏻‍💻 About Me </h3>
+
+  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+  - 🎓 &nbsp; Studying Computer Science and Engineering.
+  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
+  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+</div> 
+</div>
 
 ```js
 Const miperfil{
