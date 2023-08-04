@@ -7,9 +7,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 Acerca de Mí
 -  **Universidad :** Estudie en la Universidad Autónoma del Estado de México	:school:
--  **Hobbies :** Impresión 3D :printer: | Modelado 3D 🏺: |leer historias de suspenso :books: | Basketball :basketball: | Videojuegos :video_game: 
+-  **Hobbies :** Impresión 3D :printer: | Modelado 3D 🏺: | Leer historias de suspenso :books: | Basketball :basketball: | Videojuegos :video_game: 
 -  **Certificados :** Azure Fundamentals | Huawei HCIA Datacom :page_facing_up:
 -  **Titulo:** Técnico en soporte y mantenimiento de equipo de cómputo :scroll:
+-  **Cursos:** LaunchX 🚀| Innovación Virtual 🏛️:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -26,9 +27,6 @@ Const miperfil{
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
 Puedes encontrarme en :wink: :point_right: :
 - [Facebook](https://www.facebook.com/profile.php?id=100081813818636)
 - [Twitter](https://twitter.com/reyes7604)
