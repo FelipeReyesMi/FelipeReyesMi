@@ -6,9 +6,8 @@
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 Acerca de Mí
--  **Estudio :**  Curso el utlimo año de la carrera de Ingenieria en computación :computer:  
--  **Universidad :** Estudio en la Universidad Autónoma del Estado de México	:school:
--  **Hobbies :** leer historias de suspenso :books: | Basketball :basketball: | Videojuegos :video_game: 
+-  **Universidad :** Estudie en la Universidad Autónoma del Estado de México	:school:
+-  **Hobbies :** Impresión 3D :printer: | Modelado 3D :: |leer historias de suspenso :books: | Basketball :basketball: | Videojuegos :video_game: 
 -  **Certificados :** Azure Fundamentals | Huawei HCIA Datacom :page_facing_up:
 -  **Titulo:** Técnico en soporte y mantenimiento de equipo de cómputo :scroll:
 
@@ -18,8 +17,8 @@
 ```js
 Const miperfil{
   pronombres: "él" | "a él",
-  Lenguajes: ['C', 'C#', 'Java', 'JavaScript', 'HTML', 'CSS','SQL'],
-  Herramientas: ['Node', 'Netbeans', 'GitHub', 'Git', 'Express', 'Jest', 'Postman', 'MYSQL', 'MARIADB']
+  Lenguajes: ['Java', 'JavaScript', 'HTML', 'CSS','SQL','C','COBOL'],
+  Herramientas: ['Node', 'Netbeans', 'GitHub', 'Git', 'Express', 'Jest', 'Postman', 'MYSQL', 'MARIADB','OpenCobolIDE']
 }
 ```
 
