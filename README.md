@@ -7,7 +7,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 Acerca de Mí
 -  **Universidad :** Estudie en la Universidad Autónoma del Estado de México	:school:
--  **Hobbies :** Impresión 3D :printer: | Modelado 3D :: |leer historias de suspenso :books: | Basketball :basketball: | Videojuegos :video_game: 
+-  **Hobbies :** Impresión 3D :printer: | Modelado 3D 🏺: |leer historias de suspenso :books: | Basketball :basketball: | Videojuegos :video_game: 
 -  **Certificados :** Azure Fundamentals | Huawei HCIA Datacom :page_facing_up:
 -  **Titulo:** Técnico en soporte y mantenimiento de equipo de cómputo :scroll:
 
